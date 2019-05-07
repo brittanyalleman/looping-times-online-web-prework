@@ -1,4 +1,4 @@
-loop do
+7.times do
   puts "Wingardium Leviosa"
-  break 7
+
 end
